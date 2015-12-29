@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>五彩棒棒糖</key>
+	<array>
+		<string>闫卫敏</string>
+		<string>王雪娟</string>
+		<string>郭飞飞</string>
+		<string>秦俊珍</string>
+		<string>湛孝超</string>
+	</array>
+	<key>才子佳人</key>
+	<array>
+		<string>范芳芳</string>
+		<string>刘海燕</string>
+		<string>张衡</string>
+		<string>李书明</string>
+	</array>
+	<key>风信子</key>
+	<array>
+		<string>张莉</string>
+		<string>王妍</string>
+		<string>聂欣欣</string>
+		<string>王晓齐</string>
+		<string>肖楠</string>
+	</array>
+	<key>恐怖组织</key>
+	<array>
+		<string>赵佳慧</string>
+		<string>张鹏飞</string>
+		<string>乔自朋</string>
+		<string>李志鹏</string>
+	</array>
+	<key>娘娘驾到</key>
+	<array>
+		<string>韩苇棋</string>
+		<string>练晓俊</string>
+		<string>郭亚茹</string>
+		<string>马娟娟</string>
+	</array>
+</dict>
+</plist>
